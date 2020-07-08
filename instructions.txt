@@ -1,0 +1,15 @@
+unzip chrome driver and paste chromedriver in same directory
+
+install python 
+add python to environment variable
+open cmd in this directory 
+install all required packages with command "pip install -r requirements.text"
+after successful installation 
+run command "python insta.py"
+enjoy
+
+
+________________________________
+please change credentials to login in 'insta.py' file
+________________________________
+
