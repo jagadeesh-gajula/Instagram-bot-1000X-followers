@@ -1,5 +1,5 @@
 # Instagram-bot-100X-followers
-Instagram bot that manages your instagram profile. 
+Instagram bot that manages your instagram profile. I went from 30 to 250 followers in 2 days..!
 
 ## How does it work..!
     You need to provide your credentials into insta.py file and type hastags to follow.
